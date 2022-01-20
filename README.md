@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: omelihtolunay@gmail.com or https://ilovejam.github.io/
 - 😄 Pronouns: Ilovejam
 -->
+
+![snake svg](https://github.com/Ilovejam/Ilovejam/blob/output/github-contribution-grid-snake.svg)
