@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ilovejam
 -->
 
-![snake svg](https://github.com/Ilovejam/Ilovejam/blob/output/github-contribution-grid-snake.svg)
