@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on full stack web development and AI engineering.
 - 👯 I’m looking to collaborate on new exciting projects.
 - 💬 Ask me about if I join your team to make it up!
-- 📫 How to reach me: hello@byrondevlab.com or [https://ilovejam.github.io/](https://byrondevlab.com/)
+- 📫 How to reach me: hello@byrondevlab.com or (https://byrondevlab.com/)
 - 😄 Pronouns: Byron
 <!--
 **Ilovejam/Ilovejam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
